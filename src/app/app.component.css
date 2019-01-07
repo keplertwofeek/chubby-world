@@ -1,0 +1,17 @@
+h3 {
+  text-align: center;
+}
+.wrapper {
+  margin: 2%;
+}
+
+.canvas-wrapper {
+  width: 80%
+}
+.canvas-wrapper p {
+  float: left;
+}
+
+.canvas-wrapper #canvas {
+  width: 300px;
+}
